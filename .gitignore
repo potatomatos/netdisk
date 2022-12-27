@@ -1,0 +1,3 @@
+# Project exclude paths
+/elfinder-core/target/
+/elfinder-web/target/
